@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Aysegul Karadan</h1>
 <h3 align="center">A passionate full-stack developer from Turkey</h3>
 
-- 🔭 I’m currently working on [Hue-Man](https://github.com/karadanay7/hue-man)
+- 🔭 I’m currently working on [MealMate](https://github.com/karadanay7/MealMate-reactnative)  &&  [Inventory Management System](https://github.com/karadanay7/Inventory-Management-System)
+  
 
 - 🌱 I’m currently learning **Blazor and .NET 8**
 
