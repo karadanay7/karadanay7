@@ -32,12 +32,7 @@
 
 <h3 align="left">GitHub Stats:</h3>
 <div style="display: flex; justify-content: space-between; align-items: center; ">
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=karadanay7" style="flex: 1;">
-    <img src="https://stats.quira.sh/karadanay7/github?theme=dark" alt="karadanay7's GitHub | Stats" />
-  </a>
-  <a href="https://quira.sh?utm_source=widgets&utm_campaign=karadanay7" style="flex: 1;">
-    <img src="https://stats.quira.sh/karadanay7/dependencies?theme=dark" alt="karadanay7's GitHub | Dependencies" />
-  </a>
+ 
   
   [![karadanay7's GitHub | Languages Over Time](https://stats.quira.sh/karadanay7/languages-over-time?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=karadanay7)
   
