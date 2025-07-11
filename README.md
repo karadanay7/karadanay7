@@ -21,10 +21,6 @@
 
 </p>
 
-<h3 align="left">Latest Blog:</h3>
-<p>
-  📖 <a href="https://medium.com/@karadan.ay7/how-to-fix-video-blob-previews-on-ios-in-react-and-next-js-ac919ca314aa" target="_blank" rel="noopener noreferrer">How to Fix Video Blob Previews on iOS in React and Next.js</a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
